@@ -1,2 +1,3 @@
 # mojokcoscraper
-Scraping Mojok.co sites. Demo version
+Scraping Mojok.co site. Demo version
+Version 1 : only in CLI
